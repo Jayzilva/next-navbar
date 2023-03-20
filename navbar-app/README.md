@@ -4,6 +4,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, run the development server:
 
+npm i -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
 ```bash
 npm run dev
 # or
